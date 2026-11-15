@@ -23,4 +23,5 @@ Static portfolio + assignment site (HTML, CSS, JavaScript). No build step.
 2. Repo → Settings → Pages → Source: "Deploy from a branch" → `main` / `(root)` → Save.
 3. Your site will be at `https://<username>.github.io/<repo>/`.
 
-Preview locally: open `index.html` in a browser (or run `python -m http.server`).
+Preview locally: open `index.html` in a browser (or run `python -m http.server`). 
+
